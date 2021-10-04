@@ -1,0 +1,38 @@
+/* IMPORTS */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+/* Variables */
+:root {
+  --desaturated-blue: hsl(238, 29%, 16%);
+  --soft-red: hsl(14, 88%, 65%);
+  --soft-violet: hsl(273, 75%, 66%);
+  --soft-blue: hsl(240, 73%, 65%);
+  --grayish-blue-600: hsl(237, 12%, 33%);
+  --grayish-blue-400: hsl(240, 6%, 50%);
+  --grayish-blue-300: hsl(240, 5%, 91%);
+  --base-font-size: 0.75rem;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(var(--soft-violet), var(--soft-blue));
+  line-height: 1.5;
+}
+
+.illustrations__desktop {
+  display: none;
+}
