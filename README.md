@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - GitHub Repo: [Link to Repository](https://github.com/Shadowbest/faq-accordions-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link to live solution](https://faq-accordions-card.vercel.app/)
 
 ## My process
 
