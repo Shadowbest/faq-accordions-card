@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-!["Desktop Preview"](./images/screenshot.png)
+![Desktop Preview](./images/screenshot.png)
 
 ### Links
 
