@@ -75,13 +75,13 @@ body {
 }
 
 .woman-mobile {
-  top: -99px;
-  left: 28px;
+  top: -6.1875rem;
+  left: 0.375rem;
 }
 
 .pattern-mobile {
-  top: -4px;
-  left: 42px;
+  top: -0.25rem;
+  left: 1.125rem;
 }
 
 .main h1 {
@@ -177,8 +177,8 @@ body {
 
   .woman-desktop {
     position: absolute;
-    top: 28px;
-    left: -80px;
+    top: 1.75rem;
+    left: -5rem;
   }
 
   .box-desktop {
@@ -186,16 +186,16 @@ body {
     width: var(--size);
     height: var(--size);
     position: absolute;
-    top: 143px;
-    left: -146px;
+    top: 8.9375rem;
+    left: -9.125rem;
     z-index: 1;
   }
 
   .pattern-desktop {
     width: 31.25rem;
     position: absolute;
-    top: -53px;
-    left: -162px;
+    top: -3.3125rem;
+    left: -10.125rem;
   }
 
   .accordion-trigger:hover {
