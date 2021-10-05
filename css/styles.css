@@ -197,4 +197,12 @@ body {
     top: -53px;
     left: -162px;
   }
+
+  .accordion-trigger:hover {
+    color: var(--soft-red);
+  }
+
+  .accordion-trigger:focus {
+    outline: 0.125rem solid var(--soft-red);
+  }
 }
